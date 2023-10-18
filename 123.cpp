@@ -26,7 +26,7 @@ unsigned char enlargedImage[SIZE][SIZE];
 void loadImage ();
 void loadImage2();
 void saveImage ();
-void saveImage2 ();
+void saveImage2 () ;
 void menu ();
 void BW ();
 void Invert ();
