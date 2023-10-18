@@ -282,7 +282,7 @@ void Flip() {
 
     if (The_chosen_number == 1) // in case Horizontal
     {
-        for (int i = 0; i < SIZE; i++) // for loop to iterate  all rows in image
+        for (int i = 0; i < SIZE ; i++) // for loop to iterate  all rows in image
         {
             for (int j = 0; j < SIZE / 2; j++) // for loop to iterate half of the columns in the image
             {
